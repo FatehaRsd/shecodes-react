@@ -12,8 +12,14 @@ function App() {
       </div>
       <div className="Footer">
         <p>
-          Coded by FatehaRsd
-          <a href="">Netlify</a>
+          Coded by FatehaRsd.
+          <a
+            href="https://github.com/FatehaRsd/shecodes-react"
+            target="_blank"
+            rel="noreferrer"
+          >
+            View on GitHub
+          </a>
         </p>
       </div>
     </div>
